@@ -9,6 +9,12 @@ LeetCode刷题代码
 
 
 
+## 数据结构
+
+### 单调栈
+
+[1019. 链表中的下一个更大节点 - 力扣（LeetCode）](https://leetcode.cn/problems/next-greater-node-in-linked-list/)
+
 
 
 ## 搜索回溯
