@@ -7,8 +7,6 @@ LeetCode刷题代码
 
 [912. 排序数组 - 力扣（LeetCode）](https://leetcode.cn/problems/sort-an-array/submissions/)
 
-[1041. 困于环中的机器人 - 力扣（LeetCode）](https://leetcode.cn/problems/robot-bounded-in-circle/submissions/)
-
 
 
 ## 数据结构
